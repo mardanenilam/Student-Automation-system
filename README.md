@@ -1,4 +1,4 @@
-# Student-Automation-system
+# Student-Management-system
 
 •	This project is developed in C++ using structure and pointer
 •	In this application, we can add delete and modify and store the details of student
